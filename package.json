@@ -1,0 +1,19 @@
+{
+  "name": "forgeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oauthus42/forgeApp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oauthus42/forgeApp/issues"
+  },
+  "homepage": "https://github.com/oauthus42/forgeApp#readme"
+}
